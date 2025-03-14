@@ -1,5 +1,3 @@
-#!/usr/bin/node
-
 function fibs(number) {
   if (number <= 0) return [];
   let result = [0, 1];
